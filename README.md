@@ -11,6 +11,7 @@ npx eslint --init # create .eslintrc.json
 
 
 ? How would you like to use ESLint? To check syntax, find problems, and enforce code style
+==> maybe set to To check syntax, find problems only?
 ? What type of modules does your project use? CommonJS (require/exports)
 ? Which framework does your project use? None of these
 ? Does your project use TypeScript? No
@@ -72,5 +73,9 @@ module.exports = {
   trailingComma: 'es5',
 };
 ```
+
+### React
+
+- [Efficient Code Analyzing and Formatting (for React) with ESLint, Prettier and VSCode – 2020 Edition](https://doppelmutzi.github.io/react-eslint-prettier-vscode-2020/)
 
 ### Python
